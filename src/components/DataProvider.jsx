@@ -11,7 +11,7 @@ export default function DataProvider({ children }) {
 	const setAllData = async () => {
 		try {
 			const responseApi = await fetch(
-				"http://fake-hotel-api.herokuapp.com/api/hotels"
+				"https://fake-hotel-api.herokuapp.com/api/hotels"
 			);
 
 			if (responseApi.status !== 200)
