@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-hotelist-app/static/css/main.8bd4ee54.chunk.css",
+    "main.js": "/my-hotelist-app/static/js/main.5760ad8a.chunk.js",
+    "main.js.map": "/my-hotelist-app/static/js/main.5760ad8a.chunk.js.map",
+    "runtime-main.js": "/my-hotelist-app/static/js/runtime-main.69f700ba.js",
+    "runtime-main.js.map": "/my-hotelist-app/static/js/runtime-main.69f700ba.js.map",
+    "static/css/2.87a2527b.chunk.css": "/my-hotelist-app/static/css/2.87a2527b.chunk.css",
+    "static/js/2.c519205a.chunk.js": "/my-hotelist-app/static/js/2.c519205a.chunk.js",
+    "static/js/2.c519205a.chunk.js.map": "/my-hotelist-app/static/js/2.c519205a.chunk.js.map",
+    "index.html": "/my-hotelist-app/index.html",
+    "static/css/2.87a2527b.chunk.css.map": "/my-hotelist-app/static/css/2.87a2527b.chunk.css.map",
+    "static/css/main.8bd4ee54.chunk.css.map": "/my-hotelist-app/static/css/main.8bd4ee54.chunk.css.map",
+    "static/js/2.c519205a.chunk.js.LICENSE.txt": "/my-hotelist-app/static/js/2.c519205a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69f700ba.js",
+    "static/css/2.87a2527b.chunk.css",
+    "static/js/2.c519205a.chunk.js",
+    "static/css/main.8bd4ee54.chunk.css",
+    "static/js/main.5760ad8a.chunk.js"
+  ]
+}
